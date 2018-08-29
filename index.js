@@ -1,1 +1,1 @@
-console.warn("Watch out!")
+console.warn("Watch out!") console.log("Wood") console.error("mistake")
